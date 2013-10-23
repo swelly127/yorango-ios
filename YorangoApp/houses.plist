@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Address</key>
+		<string>528 Stewart Avenue</string>
+		<key>Name of Owner</key>
+		<string>Jessica Shu</string>
+		<key>Bedrooms</key>
+		<string>5 bedrooms</string>
+		<key>Price</key>
+		<string>$780/month</string>
+		<key>Date</key>
+		<string>6/15/2013 - 8/15/2013</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>528stewart.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>46 Ezra Street</string>
+		<key>Name of Owner</key>
+		<string>Shaniqua Locke</string>
+		<key>Bedrooms</key>
+		<string>3 bedrooms</string>
+		<key>Price</key>
+		<string>$470/month</string>
+		<key>Date</key>
+		<string>1/12/2014 - 2/12/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>46ezra.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>255 Red Boulevard</string>
+		<key>Name of Owner</key>
+		<string>Max Powers</string>
+		<key>Bedrooms</key>
+		<string>6 bedrooms</string>
+		<key>Price</key>
+		<string>$870/month</string>
+		<key>Date</key>
+		<string>10/25/2013 - 10/25/2014</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>255red.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>52 Jessup Road</string>
+		<key>Name of Owner</key>
+		<string>Marvin Hogan</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$510/month</string>
+		<key>Date</key>
+		<string>5/10/2013 - 5/20/2014</string>
+		<key>Type</key>
+		<string>Graduation weekend</string>
+		<key>Filename</key>
+		<string>52jessup.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>249 Stewart Avenue</string>
+		<key>Name of Owner</key>
+		<string>Regina Owens</string>
+		<key>Bedrooms</key>
+		<string>1 bedroom</string>
+		<key>Price</key>
+		<string>$400/month</string>
+		<key>Date</key>
+		<string>1/1/2014 - 5/1/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>249stewart.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>310 Red Boulevard</string>
+		<key>Name of Owner</key>
+		<string>Watson Elem</string>
+		<key>Bedrooms</key>
+		<string>2 bedrooms</string>
+		<key>Price</key>
+		<string>$640/month</string>
+		<key>Date</key>
+		<string>5/10/2014 - 5/20/2014</string>
+		<key>Type</key>
+		<string>Graduation weekend</string>
+		<key>Filename</key>
+		<string>310red.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>42 Thurston Avenue</string>
+		<key>Name of Owner</key>
+		<string>Kunal Shah</string>
+		<key>Bedrooms</key>
+		<string>5 bedrooms</string>
+		<key>Price</key>
+		<string>$670/month</string>
+		<key>Date</key>
+		<string>2/1/2014 - 5/1/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>42thurston.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>285 Dryden Road</string>
+		<key>Name of Owner</key>
+		<string>Emmett Barnes</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$520/month</string>
+		<key>Date</key>
+		<string>5/10/2014 - 5/20/2014</string>
+		<key>Type</key>
+		<string>Gradweekend</string>
+		<key>Filename</key>
+		<string>285dryden.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>55 Dryden Road</string>
+		<key>Name of Owner</key>
+		<string>Tom Happy</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$620/month</string>
+		<key>Date</key>
+		<string>1/2/2014 - 1/2/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>55dryden.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>799 Linden Avenue</string>
+		<key>Name of Owner</key>
+		<string>Red Clematis</string>
+		<key>Bedrooms</key>
+		<string>5 bedrooms</string>
+		<key>Price</key>
+		<string>$800/month</string>
+		<key>Date</key>
+		<string>1/16/2014 - 2/1/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>799linden.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>363 S. Park Street</string>
+		<key>Name of Owner</key>
+		<string>Edmondo Pearson</string>
+		<key>Bedrooms</key>
+		<string>7 bedrooms</string>
+		<key>Price</key>
+		<string>$990/month</string>
+		<key>Date</key>
+		<string>12/20/2013 - 12/10/2014</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>363spark.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>391 Stewart Avenue</string>
+		<key>Name of Owner</key>
+		<string>Rafiq Benson</string>
+		<key>Bedrooms</key>
+		<string>5 bedrooms</string>
+		<key>Price</key>
+		<string>$750/month</string>
+		<key>Date</key>
+		<string>2/10/2014 - 2/15/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>391stewart.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>259 Jessup Road</string>
+		<key>Name of Owner</key>
+		<string>Orsino Alvey</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$620/month</string>
+		<key>Date</key>
+		<string>1/30/2014 - 1/31/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>259jessup.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>29 Dewitt Place</string>
+		<key>Name of Owner</key>
+		<string>Eireen Quigley</string>
+		<key>Bedrooms</key>
+		<string>6 bedrooms</string>
+		<key>Price</key>
+		<string>$640/month</string>
+		<key>Date</key>
+		<string>1/2/2014 - 5/15/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>29dewitt.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>229 East Buffalo Street</string>
+		<key>Name of Owner</key>
+		<string>Marybeth Asturias</string>
+		<key>Bedrooms</key>
+		<string>6 bedrooms</string>
+		<key>Price</key>
+		<string>$670/month</string>
+		<key>Date</key>
+		<string>1/17/2014 - 5/20/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>229ebuffalo.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>39 Red Boulevard</string>
+		<key>Name of Owner</key>
+		<string>Sophia Marmo</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$590/month</string>
+		<key>Date</key>
+		<string>2/23/2014 - 1/24/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>39red.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>88 Stewart Avenue</string>
+		<key>Name of Owner</key>
+		<string>Delia Tolsi</string>
+		<key>Bedrooms</key>
+		<string>5 bedrooms</string>
+		<key>Price</key>
+		<string>$630/month</string>
+		<key>Date</key>
+		<string>4/14/2014 - 2/4/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>88stewart.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>78 S. Quarry Street</string>
+		<key>Name of Owner</key>
+		<string>Ernest Becker</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$430/month</string>
+		<key>Date</key>
+		<string>1/21/2014 - 2/24/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>78squarry.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>209 Linden Avenue</string>
+		<key>Name of Owner</key>
+		<string>Jim Flynn</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$380/month</string>
+		<key>Date</key>
+		<string>2/25/2014 - 3/25/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>209linden.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>73 Dryden Road</string>
+		<key>Name of Owner</key>
+		<string>Rebecca Hardy</string>
+		<key>Bedrooms</key>
+		<string>3 bedrooms</string>
+		<key>Price</key>
+		<string>$400/month</string>
+		<key>Date</key>
+		<string>1/15/2014 - 5/29/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>73dryden.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>293 Thurston Avenue</string>
+		<key>Name of Owner</key>
+		<string>Jovita Campos</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$490/month</string>
+		<key>Date</key>
+		<string>2/14/2014-2/15/2015</string>
+		<key>Type</key>
+		<string>Lease</string>
+		<key>Filename</key>
+		<string>293thurston.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>19 Highland Place</string>
+		<key>Name of Owner</key>
+		<string>Jacob Metz</string>
+		<key>Bedrooms</key>
+		<string>4 bedrooms</string>
+		<key>Price</key>
+		<string>$510/month</string>
+		<key>Date</key>
+		<string>1/22/2014-5/21/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>19highland.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>99 College Avenue</string>
+		<key>Name of Owner</key>
+		<string>Concetto Werner</string>
+		<key>Bedrooms</key>
+		<string>5 bedrooms</string>
+		<key>Price</key>
+		<string>$620/month</string>
+		<key>Date</key>
+		<string>2/12/2014-8/25/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>99college.jpg</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>234 Stewart Avenue</string>
+		<key>Name of Owner</key>
+		<string>Giovanni Loman</string>
+		<key>Bedrooms</key>
+		<string>4 bedromoms</string>
+		<key>Price</key>
+		<string>$690/month</string>
+		<key>Date</key>
+		<string>6/1/2014 - 9/1/2014</string>
+		<key>Type</key>
+		<string>Sublet</string>
+		<key>Filename</key>
+		<string>234stewart.jpg</string>
+	</dict>
+</array>
+</plist>
